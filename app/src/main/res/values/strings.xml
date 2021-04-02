@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CryptoCourse</string>
+    <string name="title_list">List</string>
+    <string name="title_converter">Converter</string>
+    <string name="no_network">Internet is not available</string>
+    <string name="number_format_exception">Please enter new count</string>
+    <string name="new_cryptocurrency">Please enter new cryptocurrency</string>
+    <string name="choose_ctypto">Choose an crypto</string>
+</resources>
